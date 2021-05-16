@@ -1,0 +1,8 @@
+.widget-wrapper{
+    padding: 20px;
+    border-radius: 5px;
+    background: rgb(95, 33, 119);
+    color: #fff;
+    text-align: center;
+    width: 300px;
+}
